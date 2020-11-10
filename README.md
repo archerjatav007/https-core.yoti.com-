@@ -1,1 +1,1 @@
-# https-core.yoti.com-
+# core.yoti.com
